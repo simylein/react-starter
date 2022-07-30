@@ -1,0 +1,15 @@
+# dependencies
+/node_modules
+
+# compiled output
+/build
+
+# operating system
+.DS_Store
+
+# credentials
+*.env
+!example.env
+
+# logs
+*.log
